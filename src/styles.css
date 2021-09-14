@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.input-1 {
+  display: block;
+}
+
+.input-2 {
+  display: block;
+}
+button {
+  padding: 0.23rem;
+  margin: 0.5rem;
+}
+
+.output {
+  display: block;
+}
