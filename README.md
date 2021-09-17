@@ -1,2 +1,4 @@
 # calculator-app
-Created with CodeSandbox
+
+
+Simple calculator which can apply arithmetic calculations on the inputs and provide the output.
